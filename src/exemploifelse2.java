@@ -2,6 +2,7 @@ public class exemploifelse2 {
 
     public static void main(String args[]){
 
+
         int result = 5;
         if (result > 1 && result < 5){
             System.out.println("Resultado está entre 1 e 5");
